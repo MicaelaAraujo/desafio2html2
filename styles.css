@@ -1,0 +1,19 @@
+p {
+    font-size: 24pt;
+    color:  #0a2ff1;
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 0;
+  }
+.image-container {
+    background-color: #f9fafc;
+    padding: auto; 
+    display: flex;
+   
+  }
+  
+  .image-container img {
+    max-width: auto;
+    height: auto; 
+  }
+  
